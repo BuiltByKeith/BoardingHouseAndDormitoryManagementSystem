@@ -1023,12 +1023,6 @@
                 }
             </script>
 
-            <!-- <script async
-                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8rlfEG9wu6xJaKgcNKp-9_Y0BxxX22bs&loading=async&callback=initMap">
-            </script> -->
-            <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmzJia-D4-HHetyvJInWrJlJQ_piS7sbI&callback=initMap" async
-                defer></script> -->
-
         </div>
     </div>
     <!-- /.content-wrapper -->

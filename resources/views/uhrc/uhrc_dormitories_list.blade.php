@@ -1,4 +1,4 @@
-@extends('layouts.app')
+D@extends('layouts.app')
 
 @section('content')
     <div class="content-header">
@@ -353,6 +353,6 @@
 
 
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmzJia-D4-HHetyvJInWrJlJQ_piS7sbI&callback=initMap" async
+    <script src="https://maps.googleapis.com/maps/api/js?key=yourKeyHere=initMap" async
         defer></script>
 @endsection
